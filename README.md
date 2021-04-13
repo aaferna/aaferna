@@ -7,7 +7,7 @@ Durante mucho tiempo me ubique en sectores de venta, ya sea telefónico cómo pr
 | Lenguaje | Proyecto | Libreria | App | Webinar | URL |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | Python | pyDolar | :heavy_check_mark: | | |https://github.com/gusgeek/pyDolar-lib |
-| Python |  |  | :heavy_check_mark: | |https://github.com/gusgeek/pyDolar-app |
+| Python | pyDolar |  | :heavy_check_mark: | |https://github.com/gusgeek/pyDolar-app |
 | PHP | SDK Mercado Pago | :heavy_check_mark: | | |https://github.com/gusgeek/SAPIDK-MercadoPago-PHP |
 | PHP | BloGO |  | :heavy_check_mark: | |https://github.com/gusgeek/bloGo-app |
 | PHP | phpDolar | :heavy_check_mark: |  | |https://github.com/gusgeek/phpDolar |
