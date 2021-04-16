@@ -6,11 +6,12 @@ Durante mucho tiempo me ubique en sectores de venta, ya sea telefónico cómo pr
 
 | Lenguaje | Proyecto | Libreria | App | Webinar | URL |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| Python | pyDolar | :heavy_check_mark: | | |https://github.com/gusgeek/pyDolar-lib |
-| Python | pyDolar |  | :heavy_check_mark: | |https://github.com/gusgeek/pyDolar-app |
+| Python | pyDolar-lib | :heavy_check_mark: | | |https://github.com/gusgeek/pyDolar-lib |
+| Python | pyDolar-app |  | :heavy_check_mark: | |https://github.com/gusgeek/pyDolar-app |
 | PHP | SDK Mercado Pago | :heavy_check_mark: | | |https://github.com/gusgeek/SAPIDK-MercadoPago-PHP |
 | PHP | BloGO |  | :heavy_check_mark: | |https://github.com/gusgeek/bloGo-app |
 | PHP | phpDolar | :heavy_check_mark: |  | |https://github.com/gusgeek/phpDolar |
 | PHP | MySQL to SleekDB | :heavy_check_mark: |  || https://github.com/gusgeek/MySQLtoSleekDB |
 | PHP | Init PHP | | | :heavy_check_mark: | https://github.com/gusgeek/Webinar-PHPInit |
 | JS | WikiExpress |  |  :heavy_check_mark: || https://github.com/gusgeek/wikiExpress |
+| JS | jsDolar | :heavy_check_mark: |   || https://github.com/gusgeek/jsDolar |
