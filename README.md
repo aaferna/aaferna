@@ -20,4 +20,4 @@ Mi nombre es Agustin Fernandez. Durante mucho tiempo me ubique en sectores de ve
 | PHP | MySQL to SleekDB | :heavy_check_mark: |  || https://github.com/gusgeek/MySQLtoSleekDB |
 | PHP | Init PHP | | | :heavy_check_mark: | https://github.com/gusgeek/Webinar-PHPInit |
 | JS | WikiExpress |  |  :heavy_check_mark: || https://github.com/gusgeek/wikiExpress |
-| JS | jsDolar | :heavy_check_mark: |   || https://github.com/gusgeek/jsDolar |
+| JS | jsDolar | :heavy_check_mark: | :heavy_check_mark: || https://github.com/gusgeek/jsDolar |
