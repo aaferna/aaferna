@@ -35,10 +35,7 @@ Herramienta para la gestion y tratado de la cotizacion del Dolar Argentino
 
 ETL de Logs para Elasticsearch
 
-<p align="center">
 
 | Para | Lenguaje | Libreria | App | URL |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | WSO2 | NodeJS | | :heavy_check_mark: |[Ver](https://github.com/gusgeek/messa-etl-wso2toelastic) |
-
-</p>
