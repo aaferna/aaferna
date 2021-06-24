@@ -9,26 +9,27 @@ Mi nombre es Agustin Fernandez. Durante mucho tiempo me ubique en sectores de ve
 </p>
 
 # Mis poyectos
+Proyectos independientes en el que pongo a prueba mis conocimientos o servicios, por hobbie.
 
 | Lenguaje | Proyecto | Libreria | App | Webinar | URL |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| PHP | SDK Mercado Pago | :heavy_check_mark: | | |https://github.com/gusgeek/SAPIDK-MercadoPago-PHP |
-| PHP | BloGO |  | :heavy_check_mark: | |https://github.com/gusgeek/bloGo-app |
-| PHP | MySQL to SleekDB | :heavy_check_mark: |  || https://github.com/gusgeek/MySQLtoSleekDB |
-| PHP | Init PHP | | | :heavy_check_mark: | https://github.com/gusgeek/Webinar-PHPInit |
-| JS | WikiExpress |  |  :heavy_check_mark: || https://github.com/gusgeek/wikiExpress |
+| PHP | SDK Mercado Pago | :heavy_check_mark: | | | [Ver](https://github.com/gusgeek/SAPIDK-MercadoPago-PHP) |
+| PHP | BloGO |  | :heavy_check_mark: | | [Ver](https://github.com/gusgeek/bloGo-app) |
+| PHP | MySQL to SleekDB | :heavy_check_mark: |  || [Ver](https://github.com/gusgeek/MySQLtoSleekDB) |
+| PHP | Init PHP | | | :heavy_check_mark: | [Ver](https://github.com/gusgeek/Webinar-PHPInit) |
+| JS | WikiExpress |  |  :heavy_check_mark: || [Ver](https://github.com/gusgeek/wikiExpress) |
 
 
 ## Bodi
 
-Herramienta para la gestion y tratado de la cotizacion del Dolar
+Herramienta para la gestion y tratado de la cotizacion del Dolar Argentino
 
 | Lenguaje | Libreria | App| URL |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| JS | :heavy_check_mark: | :heavy_check_mark: | https://github.com/gusgeek/bodi-dolar-js |
-| Python |  | :heavy_check_mark:  |https://github.com/gusgeek/bodi-dolar-py-app 
-| Python | :heavy_check_mark: |  |https://github.com/gusgeek/bodi-dolar-py-lib |
-| PHP | :heavy_check_mark: |  |https://github.com/gusgeek/bodi-dolar-php |
+| JS | :heavy_check_mark: | :heavy_check_mark: | [Ver](https://github.com/gusgeek/bodi-dolar-js)|
+| Python |  | :heavy_check_mark:  |[Ver](https://github.com/gusgeek/bodi-dolar-py-app) |
+| Python | :heavy_check_mark: |  |[Ver](https://github.com/gusgeek/bodi-dolar-py-lib)|
+| PHP | :heavy_check_mark: |  |[Ver](https://github.com/gusgeek/bodi-dolar-php)|
 
 ## Messa
 
@@ -36,6 +37,49 @@ ETL de Logs para Elasticsearch
 
 | Para | Lenguaje | Libreria | App | URL |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| WSO2 | NodeJS | | :heavy_check_mark: |https://github.com/gusgeek/messa-etl-wso2toelastic |
+| WSO2 | NodeJS | | :heavy_check_mark: |[Ver](https://github.com/gusgeek/messa-etl-wso2toelastic) |
 
-
+<table>
+  <tbody>
+    <tr>
+      <td align="center">Para<br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+      <td align="center">Lenguaje<br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>        
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+      <td align="center">Tipo<br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+       <td align="center">URL<br>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+    </tr>
+    <tr>
+    <td align="center">WSO2</td>
+    <td align="center">NodeJS</td>
+    <td align="center">App</td>
+    <td align="center"><a href="https://github.com/gusgeek/messa-etl-wso2toelastic">Ver</a></td>
+    </tr>
+  </tbody>
+</table>
