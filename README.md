@@ -23,18 +23,19 @@ Mi nombre es Agustin Fernandez. Durante mucho tiempo me ubique en sectores de ve
 
 Herramienta para la gestion y tratado de la cotizacion del Dolar
 
-| Lenguaje | Libreria | App | Webinar | URL |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| JS | :heavy_check_mark: | :heavy_check_mark: || https://github.com/gusgeek/bodi-dolar-js |
-| PHP | :heavy_check_mark: |  | |https://github.com/gusgeek/phpDolar |
-| Python |  | :heavy_check_mark: | |https://github.com/gusgeek/pyDolar-app 
-| Python | :heavy_check_mark: | | |https://github.com/gusgeek/pyDolar-lib |
+| Lenguaje | Libreria | App| URL |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| JS | :heavy_check_mark: | :heavy_check_mark: | https://github.com/gusgeek/bodi-dolar-js |
+| Python |  | :heavy_check_mark:  |https://github.com/gusgeek/bodi-dolar-py-app 
+| Python | :heavy_check_mark: |  |https://github.com/gusgeek/bodi-dolar-py-lib |
+| PHP | :heavy_check_mark: |  |https://github.com/gusgeek/bodi-dolar-php |
+
 ## Messa
 
 ETL de Logs para Elasticsearch
 
-| Para | Libreria | App | Webinar | URL |
+| Para | Lenguaje | Libreria | App | URL |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| WSO2 | | :heavy_check_mark: || https://github.com/gusgeek/messa-etl-wso2toelastic |
+| WSO2 | NodeJS | | :heavy_check_mark: |https://github.com/gusgeek/messa-etl-wso2toelastic |
 
 
