@@ -1,6 +1,7 @@
-### Hola 👋
 
-Mi nombre es Agustin Fernandez. Durante mucho tiempo me ubique en sectores de venta, ya sea telefónico cómo presencial. Brinde capacitaciones sobre reparaciones de equipos informáticos, realizo programación sobre PHP, MySQL, JS, HTML, Node y React, me estoy inicializando en Python y Golang. Desarrolle una plataforma de venta, gestión y administración de negocios minoristas con tienda online. Actualmente me encuentro con el desarrollo de plataformas en mi emprendimiento unipersonal.
+<p align="center">
+  <img alt="LinkedIn" src="https://github.com/gusgeek/gusgeek/blob/main/head.png">
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/aaferna/" rel="nofollow noreferrer">
