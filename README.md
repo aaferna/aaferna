@@ -8,7 +8,14 @@ Mi nombre es Agustin Fernandez. Durante mucho tiempo me ubique en sectores de ve
 
 <p align="center">
 <br><br>
-<img alt="LinkedIn" src="https://raw.githubusercontent.com/gusgeek/bloGo/produccion/admin/assets/img/logo.svg"><br><br>
-  <a href="https://github.com/gusgeek/bloGo-app" target="_blank"><img alt="LinkedIn" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=bloGo-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a> 
-    <a href="https://github.com/gusgeek/bloGo-thm" target="_blank"><img alt="LinkedIn" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=bloGo-thm&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+<img alt="logo" src="https://github.com/gusgeek/gusgeek/blob/main/logos/blogo.svg"><br><br>
+  <a href="https://github.com/gusgeek/bloGo-app" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=bloGo-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a> 
+    <a href="https://github.com/gusgeek/bloGo-thm" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=bloGo-thm&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+</p>
+
+<p align="center">
+<br><br>
+<img alt="logo" width="400" src="https://github.com/gusgeek/gusgeek/blob/main/logos/pastersync.svg"><br><br>
+  <a href="https://github.com/gusgeek/bloGo-app" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=PasterSync-Client&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a> 
+    <a href="https://github.com/gusgeek/bloGo-thm" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=PasterSync-Server&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 </p>
