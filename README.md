@@ -28,3 +28,9 @@ Mi nombre es Agustin Fernandez. Durante mucho tiempo me ubique en sectores de ve
 <a href="https://github.com/gusgeek/bodi-dolar-py-lib" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=bodi-dolar-py-lib&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
 <a href="https://github.com/gusgeek/bodi-dolar-py-app" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=bodi-dolar-py-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
 </p>
+
+<p align="center">
+<br><br>
+<img alt="logo" width="500" src="https://github.com/gusgeek/gusgeek/blob/main/logos/solar.svg"><br><br>
+<a href="https://github.com/gusgeek/SolarDB-Core" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=SolarDB-Core&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+</p>
