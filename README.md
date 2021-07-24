@@ -34,3 +34,14 @@ Mi nombre es Agustin Fernandez. Durante mucho tiempo me ubique en sectores de ve
 <img alt="logo" width="500" src="https://github.com/gusgeek/gusgeek/blob/main/logos/solar.svg"><br><br>
 <a href="https://github.com/gusgeek/SolarDB-Core" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=SolarDB-Core&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
 </p>
+<br><br><br><br>
+<h1 align="center">Experimentos</h1>
+<p align="center">
+<br><br>
+<a href="https://github.com/gusgeek/wikiExpress" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=wikiExpress&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+<a href="https://github.com/gusgeek/TiendaComputacion-ReactJS" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=TiendaComputacion-ReactJS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+<a href="https://github.com/gusgeek/CamiCase-WebSite" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=CamiCase-WebSite&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+<a href="https://github.com/gusgeek/MySQLtoSleekDB" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=MySQLtoSleekDB&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+<a href="https://github.com/gusgeek/SAPIDK-MercadoPago-PHP" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=SAPIDK-MercadoPago-PHP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+<a href="https://github.com/gusgeek/Ryzentosh-AMD-EFI" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=Ryzentosh-AMD-EFI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+</p>
