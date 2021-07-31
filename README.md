@@ -31,6 +31,7 @@ Mi nombre es Agustin Fernandez. Durante mucho tiempo me ubique en sectores de ve
 <br><br>
 <img alt="logo" width="500" src="https://github.com/gusgeek/gusgeek/blob/main/logos/solar.svg"><br><br>
 <a href="https://github.com/gusgeek/SolarDB-Core" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=SolarDB-Core&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+<a href="https://github.com/gusgeek/SolarDB-Server" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=SolarDB-Server&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
 </p>
 
 <p align="center">
