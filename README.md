@@ -17,7 +17,9 @@ Full Stack Developer Multilang
 <img alt="logo" width="500" src="https://github.com/gusgeek/Healty/blob/main/logo.svg"><br><br>
 <a href="https://github.com/gusgeek/Healty" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=Healty&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
 </p>
-
+<img alt="logo" width="500" src="https://github.com/gusgeek/HealtyCenter/blob/main/logo.svg"><br><br>
+<a href="https://github.com/gusgeek/HealtyCenter" target="_blank"><img alt="app" src="https://github-readme-stats.vercel.app/api/pin?username=gusgeek&repo=HealtyCenter&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151514"></a>
+</p>
 
 
 
